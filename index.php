@@ -15,22 +15,22 @@
         <div class="col-md-6 float-left">
             <div class="card-header text-center text-white bg-secondary">Sepetinizdeki Ürünler</div>
             <div class="card-body  mt-2">
-                <div class="urun ">
+                <div>
                     <img src="img/sepet1.png" style="width: 8%; height: 8%;" alt=""> <label class="ml-5">Puma Court
                         Rider 2.0 (Erkek Basketbol Ayakkabısı)</label> <label class="float-right mt-3"> 350 TL</label>
                 </div>
 
-                <div class="urun mt-2">
+                <div >
                     <img src="img/sepet2.png" style="width: 8%; height: 8%;" alt=""> <label class="ml-5">Nike Air
                         Monarch IV (Erkek Antrenman Ayakkabısı)</label> <label class="float-right mt-3">400 TL</label>
                 </div>
 
-                <div class="urun">
+                <div>
                     <img src="img/sepet3.jpg" style="width: 8%; height: 8%;" alt=""> <label class="ml-5">Hammer Jack
                         Vegas Erkek Günlük Spor Ayakkabı</label> <label class="float-right mt-3">200 TL</label>
                 </div>
 
-                <div class="urun">
+                <div>
                     <br>
                     <hr>
                     <label class="ml-5 h5">TOPLAM SEPET TUTARI: </label> <label class="float-right h5">950 TL</label>
